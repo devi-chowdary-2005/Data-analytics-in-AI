@@ -103,7 +103,7 @@ print(f"orders_clean rows: {order_count}")
 
 
 # ============================================================
-# Close database
+# Close database-by devi
 # ============================================================
-
+#Edited by devi-2026
 connection.close()
