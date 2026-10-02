@@ -6,7 +6,7 @@ gets byte-identical pharmeasy_orders_raw.csv and regions_master.csv.
 import random
 import csv
 from collections import defaultdict
-
+#Final seed configuration - validated
 rng = random.Random(2026)
 
 REGIONS_ACTIVE = [
