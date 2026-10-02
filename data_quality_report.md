@@ -1,3 +1,4 @@
+< ! --pharmacy - Final documentation 2026 -->
 # Data Quality Report — PharmEasy Regional Pulse
 
 ## Data Quality Dimensions and Implemented Fixes
