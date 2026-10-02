@@ -1650,7 +1650,7 @@ and are recorded in `audit_log.jsonl`.
 st.html(
     """
     <div class="footer">
-        PharmEasy Regional Pulse
+        PharmEasy Regional Pulse- by devichowdary
         · Decision Intelligence Dashboard
         · 2026
     </div>
