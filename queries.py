@@ -5,7 +5,7 @@ PharmEasy Regional Pulse — Part 2
 Task 2.2 — JOIN validation
 Task 2.3 — Region x Month metrics and MoM growth
 """
-
+# Dharmavaram
 import sqlite3
 
 
