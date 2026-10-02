@@ -1,0 +1,80 @@
+[
+  {
+    "region": "Bengaluru",
+    "flagged_transitions": [
+      "April → May"
+    ],
+    "Context": "Bengaluru recorded sales of ₹203,505.48 in April 2026, ₹172,929.68 in May 2026, and ₹170,294.11 in June 2026.",
+    "Insight": "The April → May sales change was -15.02%, exceeding the 8% operational-alert threshold.",
+    "Implication": "The change should receive a human review before any operational action is taken; the percentage threshold is an alert rule rather than proof of a specific underlying cause."
+  },
+  {
+    "region": "Guntur",
+    "flagged_transitions": [
+      "April → May",
+      "May → June"
+    ],
+    "Context": "Guntur recorded sales of ₹62,442.27 in April 2026, ₹138,738.93 in May 2026, and ₹99,745.18 in June 2026.",
+    "Insight": "The region crossed the 8% operational-alert threshold in both monitored transitions: April → May changed by 122.19% and May → June changed by -28.11%.",
+    "Implication": "The change should receive a human review before any operational action is taken; the percentage threshold is an alert rule rather than proof of a specific underlying cause."
+  },
+  {
+    "region": "Hyderabad",
+    "flagged_transitions": [
+      "April → May",
+      "May → June"
+    ],
+    "Context": "Hyderabad recorded sales of ₹209,670.15 in April 2026, ₹243,825.28 in May 2026, and ₹294,088.56 in June 2026.",
+    "Insight": "The region crossed the 8% operational-alert threshold in both monitored transitions: April → May changed by 16.29% and May → June changed by 20.61%.",
+    "Implication": "The change should receive a human review before any operational action is taken; the percentage threshold is an alert rule rather than proof of a specific underlying cause."
+  },
+  {
+    "region": "Karimnagar",
+    "flagged_transitions": [
+      "April → May",
+      "May → June"
+    ],
+    "Context": "Karimnagar recorded sales of ₹49,815.71 in April 2026, ₹61,585.90 in May 2026, and ₹34,490.58 in June 2026.",
+    "Insight": "The region crossed the 8% operational-alert threshold in both monitored transitions: April → May changed by 23.63% and May → June changed by -44.00%.",
+    "Implication": "The change should receive a human review before any operational action is taken; the percentage threshold is an alert rule rather than proof of a specific underlying cause."
+  },
+  {
+    "region": "Tirupati",
+    "flagged_transitions": [
+      "April → May",
+      "May → June"
+    ],
+    "Context": "Tirupati recorded sales of ₹54,582.74 in April 2026, ₹91,083.20 in May 2026, and ₹75,530.99 in June 2026.",
+    "Insight": "The region crossed the 8% operational-alert threshold in both monitored transitions: April → May changed by 66.87% and May → June changed by -17.07%.",
+    "Implication": "The change should receive a human review before any operational action is taken; the percentage threshold is an alert rule rather than proof of a specific underlying cause."
+  },
+  {
+    "region": "Visakhapatnam",
+    "flagged_transitions": [
+      "April → May",
+      "May → June"
+    ],
+    "Context": "Visakhapatnam recorded sales of ₹134,765.29 in April 2026, ₹50,590.08 in May 2026, and ₹100,735.57 in June 2026.",
+    "Insight": "The region crossed the 8% operational-alert threshold in both monitored transitions: April → May changed by -62.46% and May → June changed by 99.12%.",
+    "Implication": "The change should receive a human review before any operational action is taken; the percentage threshold is an alert rule rather than proof of a specific underlying cause."
+  },
+  {
+    "region": "Warangal",
+    "flagged_transitions": [
+      "April → May",
+      "May → June"
+    ],
+    "Context": "Warangal recorded sales of ₹100,468.14 in April 2026, ₹78,339.23 in May 2026, and ₹66,715.24 in June 2026.",
+    "Insight": "The region crossed the 8% operational-alert threshold in both monitored transitions: April → May changed by -22.03% and May → June changed by -14.84%.",
+    "Implication": "The change should receive a human review before any operational action is taken; the percentage threshold is an alert rule rather than proof of a specific underlying cause."
+  },
+  {
+    "region": "Vijayawada",
+    "flagged_transitions": [
+      "May → June"
+    ],
+    "Context": "Vijayawada recorded sales of ₹171,334.19 in April 2026, ₹174,863.57 in May 2026, and ₹153,849.68 in June 2026.",
+    "Insight": "The May → June sales change was -12.02%, exceeding the 8% operational-alert threshold.",
+    "Implication": "The change should receive a human review before any operational action is taken; the percentage threshold is an alert rule rather than proof of a specific underlying cause."
+  }
+]
