@@ -1,5 +1,5 @@
 # PharmEasy Regional Pulse --- Presentation Storyline
-
+project finalized
 ## 1. Problem
 
 The project analyzes regional sales performance across April, May, and
